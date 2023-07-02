@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a second year student from Bhagat Phool SIngh Women's University.<br>A Coding Enthusiast<br>
+I am a second year student from Bhagat Phool SIngh Women's University.<br>A Coding Enthusiast.
+I am committed to lifelong learning, problem-solving, and delivering high-quality work. Collaboration, professional growth, and a user-centric approach are key pillars of my work ethic.
+My commitment to this field is unwavering, and it drives me to continually enhance my skills and contribute meaningfully to the industry. Through hands-on projects, case studies, I honed my practical skills, such as problem-solving, critical thinking, and analytical reasoning. These skills have proven invaluable in my professional endeavors.
+
+As a dedicated individual I am excited to contribute to the ever-evolving world of technology and make a positive difference through my work.<br>
 
 
 ## 🌐 Socials:
