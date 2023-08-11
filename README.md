@@ -20,6 +20,5 @@ As a dedicated individual, I am excited to contribute to the ever-evolving world
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shruti0503&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
