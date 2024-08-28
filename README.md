@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti Vishwakarma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti0503&label=Profile%20views&color=0e75b6&style=flat" alt="shruti0503" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruti0503" alt="shruti0503" /></a> </p>
-
 - 👨‍💻 Link to my Prortfolio: [https://shruti-v.vercel.app/](https://shruti-v.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
